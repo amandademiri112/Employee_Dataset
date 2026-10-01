@@ -13,10 +13,26 @@ A project using an artificial employee dataset to demonstrate and refine my abil
 - [Final Project](#final-project)
 
 ## Purpose
+The purpose of this project is to demonstrate my ability to clean, transform, analyse, and visualise employee data using Excel and Power BI.
 
 ## Objectives
 
+- Clean and prepare employee data for analysis.
+- Identify and address data-quality issues within the dataset.
+- Analyse employee performance across different characteristics.
+- Compare performance across departments and regions.
+- Identify groups that may require further investigation.
+- Create DAX calculated columns and measures to support analysis.
+- Develop KPIs to provide an overview of employee performance.
+- Use data visualisations to communicate key findings clearly.
+- Create an interactive Power BI dashboard.
+
 ## Skills
+| ![Static Badge](https://img.shields.io/badge/Technical%20Skills-steelblue) | ![Static Badge](https://img.shields.io/badge/Soft%20Skills-9994C0) |
+|---|---|
+|  |  |
+|  |  |
+|  |  |
 
 ## Key Insights
 
