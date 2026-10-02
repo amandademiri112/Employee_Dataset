@@ -38,9 +38,10 @@ The purpose of this project is to demonstrate my ability to clean, transform, an
 
 ## Previews
 
-## Final Project
-  
+![Employee Performance Dashboard Preview](Assets/Employee_Performance_Dashboard.PNG)
 
+## Final Project
+
+![Employee Performance Dashboard](Final_Project/Employee_Performance_Dashboard.pbix)
   
-###### Dataset will be available in repository
-###### Currently **incomplete**
+###### Dataset available in repository
