@@ -30,11 +30,17 @@ The purpose of this project is to demonstrate my ability to clean, transform, an
 ## Skills
 | ![Static Badge](https://img.shields.io/badge/Technical%20Skills-steelblue) | ![Static Badge](https://img.shields.io/badge/Soft%20Skills-9994C0) |
 |---|---|
-|  |  |
-|  |  |
-|  |  |
+| Power BI | Interpreting results |
+| Excel | Story-telling |
+| KPI development | Communicating insights clearly |
+| Data modelling | Visualisation |
+| Dashboard development | Providing post-explanation |
+| Dax & Calculated measures | Analytical thinking |
+| Exploratory Data Analysis | Investigating data quality |
+| Statistical analysis | Data cleaning |
 
 ## Key Insights
+Incomplete
 
 ## Previews
 
@@ -44,4 +50,4 @@ The purpose of this project is to demonstrate my ability to clean, transform, an
 
 ![Employee Performance Dashboard](Final_Project/Employee_Performance_Dashboard.pbix)
   
-###### Dataset available in repository
+###### Original dataset available in repository
