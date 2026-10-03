@@ -1,6 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/Excel-green) ![Static Badge](https://img.shields.io/badge/Power%20BI-gold)  
 
-# Employee_Dataset
+# Employee_Dataset  
   
 A project using an artificial employee dataset to demonstrate and refine my abilities in Excel and Power BI.  
 
@@ -48,7 +48,7 @@ The purpose of this project is to demonstrate my ability to clean, transform, an
 - Overall, 52% of employees have positive performance, whilst 48% have negative performance.
 - The highest-earning salaries by performance are among employees with Good performance, whilst the lowest-earning salaries are among employees with Average performance.
 - The majority of the bottom 5 earning salaries are in Cloud Tech and Finance, whilst the majority of the top 5 earning salaries are in Sales, although they are more varied across departments.
-- The average salary is £85K, whilst the highest-earning salary is £120K and the lowest-earning salary is £50K.
+- The average salary is $85K, whilst the highest-earning salary is $120K and the lowest-earning salary is $50K.
 
 In a professional setting, my recommendations would be to investigate why Nevada is the best-performing region and why Admin is the best-performing department, and identify whether any of the factors contributing to their performance could be applied to lower-performing regions and departments. I would also recommend investigating how less experienced employees could be better supported to understand whether a lack of experience is contributing to lower performance, and handle it appropriately if so. I would also recommend gathering feedback from in-office employees to understand whether changes to the working environment could help improve their performance.
 
